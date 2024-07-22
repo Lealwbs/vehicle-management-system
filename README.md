@@ -36,12 +36,12 @@ A persistência de dados é feita em memória, sem um banco de dados.
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/Lealwbs/Vehicle-Management-System-API
+   git clone https://github.com/Lealwbs/vehicle-management-system
    ```
 
 2. **Acessar a pasta**
    ```bash
-   cd Vehicle-Management-System-API
+   cd vehicle-management-system
    ```
 
 3. **Instale as dependências**
