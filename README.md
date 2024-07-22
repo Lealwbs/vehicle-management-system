@@ -189,3 +189,11 @@ Para garantir que todos os endpoints da API funcionem conforme o esperado, você
 |-- package-lock.json
 |-- README.md
 ```
+## Teste Técnico Prático
+
+O arquivo PDF contendo o teste técnico prático que foi realizado está disponível na raiz deste repositório. O PDF inclui todos os requisitos e instruções que foram seguidos para implementar a API.
+
+- **Nome do Arquivo:** teste-tecnico-pratico.pdf
+- **Localização:** [Clique aqui para visualizar o PDF](./Backend-TTP.pdf)
+
+Este documento fornece o contexto completo e as especificações do teste, facilitando a compreensão do trabalho realizado.
