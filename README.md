@@ -180,10 +180,9 @@ Para garantir que todos os endpoints da API funcionem conforme o esperado, você
 |   |-- motorists.js
 |   |-- usages.js
 |   |-- vehicles.js
-|-- tests
-|   |-- motorists.test.js
-|   |-- usages.test.js
-|   |-- vehicles.test.js
+|-- test
+|   |-- api.test.js
+|-- Backend-TTP.pdf
 |-- server.js
 |-- package.json
 |-- package-lock.json
